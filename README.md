@@ -11,8 +11,7 @@
 
 :chart_with_upwards_trend: Github Stats
 
-![Nehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehal-Bhautoo&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-bhautoo&theme=tokyonight&langs_count=3)](https://github.com/Nehal-bhautoo/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-bhautoo&theme=tokyonight&langs_count=5)](https://github.com/Nehal-bhautoo/github-readme-stats)  ![Nehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehal-Bhautoo&theme=tokyonight&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nehal-bhautoo&theme=tokyonight&repo=AR-Application-for-museum)](https://github.com/Nehal-Bhautoo/AR-Application-for-museum) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nehal-bhautoo&theme=tokyonight&repo=Flutter-Voice-Control-App)](https://github.com/Nehal-Bhautoo/Flutter-Voice-Control-App)
 
 
