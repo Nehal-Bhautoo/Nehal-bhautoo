@@ -11,7 +11,7 @@
 
 :chart_with_upwards_trend: Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-bhautoo&theme=tokyonight&langs_count=5)](https://github.com/Nehal-bhautoo/github-readme-stats)  ![Nehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehal-Bhautoo&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-bhautoo&theme=tokyonight&langs_count=8)](https://github.com/Nehal-bhautoo/github-readme-stats) [![Nehal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nehal-Bhautoo&theme=tokyonight)](https://github.com/Nehal-Bhautoo/github-readme-stats) ![Nehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehal-Bhautoo&theme=tokyonight&show_icons=true)
 
 
 
