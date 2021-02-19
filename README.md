@@ -14,3 +14,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-bhautoo&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/Nehal-bhautoo/github-readme-stats)
 ![Nehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehal-Bhautoo&theme=tokyonight&show_icons=true)
 [![My's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nehal&layout=compact&theme=tokyonight)](https://github.com/Nehal-Bhautoo/github-readme-stats)
+
+:speech_balloon: How to reach me
