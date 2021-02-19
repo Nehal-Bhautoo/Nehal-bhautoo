@@ -16,3 +16,13 @@
 [![My's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nehal&layout=compact&theme=tokyonight)](https://github.com/Nehal-Bhautoo/github-readme-stats)
 
 :speech_balloon: How to reach me
+<p align="center">
+  <i>Let's connect and chat!</i>
+
+  <p align="center">
+    <a href="https://twitter.com/454aac84aec945b" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/nehal-bhautoo-b3bb8317a/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="nehalb34@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://nehal-bhautoo.github.io/portfolio/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+</p>
