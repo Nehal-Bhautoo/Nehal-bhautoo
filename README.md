@@ -4,6 +4,7 @@
 - :computer: Computer Science Student [@Middlesex University](https://www.mdx.ac.uk/)
 - 🤝 Always open for cooperation
 - :heart: Dogs :car: Car enthusiast :video_game: like to play/develop games
+- :globe_with_meridians: https://nehal-bhautoo.github.io/portfolio/
 
 :wrench: Tools& :computer: Technologies
 
