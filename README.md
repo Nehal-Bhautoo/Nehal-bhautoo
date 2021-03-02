@@ -5,6 +5,7 @@
 - 🤝 Always open for cooperation
 - :heart: Dogs :car: Car enthusiast :video_game: like to play/develop games
 - :globe_with_meridians: Still working on my Portfolio https://nehal-bhautoo.github.io/portfolio/
+- ![](https://komarev.com/ghpvc/?username=Nehal-Bhautoo)
 
 :wrench: Tools& :computer: Technologies
 
