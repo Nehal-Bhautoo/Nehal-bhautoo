@@ -1,9 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 - :house: Mauritius
-- :computer: Computer Science Student [@Middlesex University](https://www.mdx.ac.uk/)
+- :computer: Graduate Computer Science Student [@Middlesex University](https://www.mdx.ac.uk/)
 - 🤝 Always open for cooperation
-- :heart: Dogs :car: Car enthusiast :video_game: like to play/develop games
+- :heart: Dogs :car: F1 enthusiast :video_game: like to play/develop games
 - :globe_with_meridians: My Portfolio https://nehal-bhautoo.github.io/portfolio/
 - ![](https://komarev.com/ghpvc/?username=Nehal-Bhautoo)
 
@@ -16,6 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-bhautoo&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/Nehal-bhautoo/github-readme-stats)
 ![Nehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehal-Bhautoo&theme=tokyonight&show_icons=true)
 [![My's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nehal&layout=compact&theme=tokyonight)](https://github.com/Nehal-Bhautoo/github-readme-stats)
+<a href="https://dev.to/nehal_bhautoo" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"></a>
 
 :speech_balloon: How to reach me
 <p align="center">
@@ -23,6 +24,7 @@
 
   <p align="center">
     <a href="https://twitter.com/454aac84aec945b" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://dev.to/nehal_bhautoo" alt="Dev.to"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/dev-to-line.svg"></a>
     <a href="https://www.linkedin.com/in/nehal-bhautoo-b3bb8317a/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="nehalb34@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://nehal-bhautoo.github.io/portfolio/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
