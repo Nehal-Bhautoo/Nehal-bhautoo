@@ -20,6 +20,7 @@
 <a href="https://nehal-bhautoo.github.io/blog/" target="_blank"><img src="https://img.shields.io/badge/blog-203340?style=for-the-badge&logo=blogger&logoColor=white" alt="blog"></a>
 <a href="https://nehal-bhautoo.github.io/resume/" target="_blank"><img src="https://img.shields.io/badge/resume-203340?style=for-the-badge&logo=react&logoColor=white" alt="resume"></a>
 <a href="https://www.codingame.com/profile/3e26b5c55e5c55a09e304423b9c829475888133" target="_blank"><img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" alt="CodinGame"></a>
+<a href="https://leetcode.com/Nehal-Bhautoo/" target="_blank"><img src="https://img.shields.io/badge/leetcode-203340?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"></a>
 
 :speech_balloon: How to reach me
 <p align="center">
@@ -31,6 +32,7 @@
     <a href="https://nehal-bhautoo.github.io/blog/" alt="Blog"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/blogger-line.svg"></a>
     <a href="https://nehal-bhautoo.github.io/resume/" alt="Resume"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/file-user-line.svg"></a>
     <a href="https://www.codingame.com/profile/3e26b5c55e5c55a09e304423b9c829475888133" alt="CodinGame"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/gamepad-line.svg"></a>
+    <a href="https://leetcode.com/Nehal-Bhautoo/" alt="Leetcode"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/sword-line.svg"></a>
     <a href="https://www.linkedin.com/in/nehal-bhautoo-b3bb8317a/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="nehalb34@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://nehal-bhautoo.github.io/portfolio/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
