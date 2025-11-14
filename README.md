@@ -16,6 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-bhautoo&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/Nehal-bhautoo/github-readme-stats)
 ![Nehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehal-Bhautoo&theme=tokyonight&show_icons=true)
 [![My's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nehal&layout=compact&theme=tokyonight)](https://github.com/Nehal-Bhautoo/github-readme-stats)
+
 <a href="https://dev.to/nehal_bhautoo" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"></a>
 <a href="https://nehal-bhautoo.github.io/blog/" target="_blank"><img src="https://img.shields.io/badge/blog-203340?style=for-the-badge&logo=blogger&logoColor=white" alt="blog"></a>
 <a href="https://nehal-bhautoo.github.io/resume/" target="_blank"><img src="https://img.shields.io/badge/resume-203340?style=for-the-badge&logo=react&logoColor=white" alt="resume"></a>
@@ -24,6 +25,7 @@
 <a href="https://www.hackerrank.com/nehalb34" target="_blank"><img src="https://img.shields.io/badge/hackerrank-203340?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank"></a>
 <a href="https://www.codewars.com/users/Nehal-Bhautoo" target="_blank"><img src="https://img.shields.io/badge/codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars"></a>
 <a href="https://tryhackme.com/p/Nehal" target="_blank"><img src="https://img.shields.io/badge/tryhackme-203340?style=for-the-badge&logo=tryhackme&logoColor=white" alt="tryhackme"></a>
+<a href="https://app.hackthebox.com/profile/965333" target="_blank"><img src="https://img.shields.io/badge/hackthebox-203340?style=for-the-badge&logo=hackthebox&logoColor=white" alt="hackthebox"></a>
 
 :speech_balloon: How to reach me
 <p align="center">
@@ -31,14 +33,6 @@
 
   <p align="center">
     <a href="https://twitter.com/454aac84aec945b" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://dev.to/nehal_bhautoo" alt="Dev.to"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/dev-to-line.svg"></a>
-    <a href="https://nehal-bhautoo.github.io/blog/" alt="Blog"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/blogger-line.svg"></a>
-    <a href="https://nehal-bhautoo.github.io/resume/" alt="Resume"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/file-user-line.svg"></a>
-    <a href="https://www.codingame.com/profile/3e26b5c55e5c55a09e304423b9c829475888133" alt="CodinGame"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/gamepad-line.svg"></a>
-    <a href="https://leetcode.com/Nehal-Bhautoo/" alt="Leetcode"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/sword-line.svg"></a>
-    <a href="https://www.hackerrank.com/nehalb34" alt="Hackerrank"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/code-s-slash-line.svg"></a>
-    <a href="https://www.codewars.com/users/Nehal-Bhautoo" alt="Codewars"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/sword-fill.svg"></a>
-    <a href="https://tryhackme.com/p/Nehal" alt="Tryhackme"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/bug-line.svg"></a>
     <a href="https://www.linkedin.com/in/nehal-bhautoo-b3bb8317a/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="nehalb34@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://nehal-bhautoo.github.io/portfolio/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
