@@ -17,6 +17,7 @@
 ![Nehal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehal-Bhautoo&theme=tokyonight&show_icons=true)
 [![My's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nehal&layout=compact&theme=tokyonight)](https://github.com/Nehal-Bhautoo/github-readme-stats)
 <a href="https://dev.to/nehal_bhautoo" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"></a>
+<a href="https://nehal-bhautoo.github.io/blog/" target="_blank"><img src="https://img.shields.io/badge/blog-203340?style=for-the-badge&logo=blogger&logoColor=white" alt="blog"></a>
 
 :speech_balloon: How to reach me
 <p align="center">
@@ -25,6 +26,7 @@
   <p align="center">
     <a href="https://twitter.com/454aac84aec945b" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://dev.to/nehal_bhautoo" alt="Dev.to"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/dev-to-line.svg"></a>
+    <a href="https://nehal-bhautoo.github.io/blog/" alt="Blog"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/blogger-line.svg"></a>
     <a href="https://www.linkedin.com/in/nehal-bhautoo-b3bb8317a/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="nehalb34@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://nehal-bhautoo.github.io/portfolio/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
